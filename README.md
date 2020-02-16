@@ -1,0 +1,2 @@
+# SalaryCalculator
+Rozwiązanie zadania rekrutacyjnego
